@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kotlin 1</string>
+    <string name="ok">Ok</string>
+    <string name="enter_message">Enter message</string>
+</resources>
