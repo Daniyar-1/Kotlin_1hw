@@ -33,7 +33,8 @@
           android:hint="@string/enter_message"
           android:padding="12dp"
           android:background="@drawable/bg_edit_text_oval"
-          app:layout_constraintTop_toTopOf="parent"/>
+          app:layout_constraintTop_toTopOf="parent"
+          tools:ignore="Autofill,TextFields" />
 
       <Button
           android:id="@+id/btn_ok_first"
